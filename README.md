@@ -1,4 +1,4 @@
-# AncientQuestor Help
+# AncientQuestor Beta Help
 
 ### Economy
 - ```/battle``` Engage in a battle with a random opponent
@@ -14,6 +14,10 @@
   ```/transfer [currency] [amount] [user]``` | ```/transfer gold 1,000 @spidy```
 - ```/flip``` Flip a coin to double up your currency
   ```/flip [coin] [amount]``` | ```/flip gold 1000```
+- ```/convert``` Convert coins to gold
+  ```/convert [amount]``` | ```/convert 100000```
+
+Each 1,00,000 is 1,000 gold
 
   
 
