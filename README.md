@@ -12,4 +12,16 @@
 - ```/start``` Create your profile with initial attributes to start your adventure
 - ```/transfer``` Transfer coins or gold to another player
   ```/transfer [currency] [amount] [user]``` | ```/transfer gold 1,000 @spidy```
+- ```/flip``` Flip a coin to double up your currency
+  ```/flip [coin] [amount]``` | ```/flip gold 1000```
+
   
+
+### Marriage
+- ```/buy``` Buy a ring to marry
+  ```/buy [ring name]``` | ```/buy common ring```
+- ```/divorce``` Divorce with your partner
+- ```/married``` Get your marriage status
+- ```/marry``` Marry your partner
+  ```/marry [ring name] [person]``` | ```/marry common @wife```
+- ```/shop``` View ancient questor shop
