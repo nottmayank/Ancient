@@ -29,3 +29,8 @@ Each 1,00,000 is 1,000 gold
 - ```/marry``` Marry your partner
   ```/marry [ring name] [person]``` | ```/marry common @wife```
 - ```/shop``` View ancient questor shop
+
+
+# Support
+⚠️ This bot is beta stage, More features and website will be launched soon...
+Join our communtiy [server](https://discord.gg/SuyMay8npr) for support! Invite the bot [here](https://discord.com/oauth2/authorize?client_id=1257970336377475172&permissions=139586751552&integration_type=0&scope=bot)
